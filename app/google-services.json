@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053413010518",
+    "project_id": "lostphonefinder-256d3",
+    "storage_bucket": "lostphonefinder-256d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053413010518:android:b265f024cff3baf80a5ff7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ANe5_fVRaBIgviFfv0vIyIKwW4-LB5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053413010518:android:6c9e1fb5c9c3586c0a5ff7",
+        "android_client_info": {
+          "package_name": "com.example.try5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ANe5_fVRaBIgviFfv0vIyIKwW4-LB5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
